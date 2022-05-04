@@ -1,0 +1,42 @@
+{ "kutyak" : [
+    {
+      "nev": "Blöki",
+      "fajta": "kuvasz",
+      "szin": "fehér",
+      "kor": "2020.02.20",
+      "bunda": "vastag",
+      "oltottsag": true,
+      "kolykokneve": ["elso", "masodik"],
+      "gazda": {
+        "nev": "Jenő",
+        "kor": 32
+      }
+    },
+    {
+      "nev": "Morzsa",
+      "fajta": "Puli",
+      "szin": "fekete",
+      "kor": "2020.02.20",
+      "bunda": "vastag",
+      "oltottsag": true,
+      "kolykokneve": ["elso", "masodik"],
+      "gazda": {
+        "nev": "Jenő",
+        "kor": 32
+      }
+    },
+    {
+      "nev": "Dézi",
+      "fajta": "keverék",
+      "szin": "fekete",
+      "kor": "2020.02.20",
+      "bunda": "vékony",
+      "oltottsag": true,
+      "kolykokneve": ["elso", "masodik"],
+      "gazda": {
+        "nev": "Jenő",
+        "kor": 32
+      }
+    }
+  ]
+}
